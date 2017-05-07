@@ -1,0 +1,26 @@
+#top{
+	background-image:url(../images/bg.gif);
+	background-position: top;
+	background-repeat: no-repeat;
+	text-align:center;
+	font-size: 14px;
+	width: 1005px;
+	height: 300px;
+}
+#mybody {
+	background-image:url(../images/banner.jpg);
+	background-repeat: no-repeat;
+	background-position: top;
+	width:1005px;
+	height:300px;
+}
+li{
+	list-style-type: none;
+	font-size: 14px;
+}
+
+#gg{
+	font-weight: bold;
+	color:#65a7d0;
+	font-size: 16px;
+}
