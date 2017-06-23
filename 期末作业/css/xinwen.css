@@ -1,0 +1,112 @@
+body{
+	padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    overflow-y: auto;
+    background-image: url(../images/48.jpg);
+}
+.header_BLIZZARD{
+	width: 100%;
+	height: 50px;
+	text-align: center;
+	background-color: #708090;
+}
+#oneul{
+	list-style: none;
+	position: relative;
+	top: -60px;
+	left: 320px;
+}
+#img_1{
+	position: relative;
+	left: -660px;
+}
+#img_2{
+	position: relative;
+	left: -1100px;
+	top: -71px;
+}
+#oneul li a{
+	text-decoration: none;
+	font-size: 20px;
+	color: #FFFFFF;
+}
+#twoul li a{
+	text-decoration: none;
+	font-size: 15px;
+	color: #FFFFFF;
+}
+#twoul{
+	list-style: none;
+	position: relative;
+	left: 1250px;
+	top: -56px;
+}
+.header_BLIZZARD ul li a:hover{
+	font-weight: bold;
+}
+.header_BLIZZARD ul li{
+	float: left;
+}
+.banner-2{
+	position: relative;
+	left: 550px;
+	top: -313px;
+	color: #FFF;
+}
+#img-1{
+	position: relative;
+	left: -615px;
+}
+#img-2{
+	position: relative;
+	top: 310px;
+	left: -1170px;
+}
+#p1{
+	position: relative;
+	top: -135px;
+	left:280px;
+}
+.banner-3{
+	position: relative;
+	left: 550px;
+	top: -355px;
+	color: #FFF;
+}
+#p2{
+	position: relative;
+	top: -128px;
+	left:280px;
+}
+.banner-4{
+	position: relative;
+	left: 550px;
+	top: -400px;
+	color: #FFF;
+}
+#p3{
+	position: relative;
+	top: -125px;
+	left:280px; 
+} 
+.banner-5{
+	width: 200px;
+	height: 50px;
+	border: 1px solid #FFF;
+	position: relative;
+	top: -450px;
+	left: 1000px;
+	text-align: center;
+}
+.banner-5 a{
+	color: #FFF;
+	text-decoration: none;
+	font-size: 23px;
+	font-style: italic;
+}
+.banner-6{
+	position: relative;
+	top: -430px;
+	left: 220px;
+}
